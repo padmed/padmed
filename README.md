@@ -1,6 +1,8 @@
 <h1 align="center">Hi 🖖🏼, I'm David Darchinian</h1>
 <h3 align="center">Self-taught, passionate developer from Tbilisi, Georgia.</h3>
 
+- 📎 Before I finish my portfolio, I will post some of my projects here
+
 - 🌱 I’m currently learning **Full-stack development at The Odin Project**
 
 - 👯 I’m ready to collaborate on **any front-end related project**
@@ -8,6 +10,13 @@
 - 💬 I can help you with **Python, Javascript or styling**
 
 - 📫 You can reach me at email **ddarchinian@gmail.com**
+
+<h3 align="left">Projects:</h3>
+<ul>
+  <li> My very first yet simple Javascript game <a href="https://padmed.github.io/Rock_paper_scissors/"> Rock Paper and Scissors </a> | <a href="https://github.com/padmed/Rock_paper_scissors"> Repo</a></li>
+  <li><a href="https://padmed.github.io/Etch-a-Sketch-/"> 8-bit drawing tool </a> | <a href="https://github.com/padmed/Etch-a-Sketch-"> Repo</a></li>
+  <li>Interactive <a href="https://padmed.github.io/Sign-up-Form/">Sign up</a> page design | <a href="https://github.com/padmed/Sign-up-Form"> Repo</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
