@@ -13,9 +13,10 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li> My very first yet simple Javascript game <a href="https://padmed.github.io/Rock_paper_scissors/"> Rock Paper and Scissors </a> | <a href="https://github.com/padmed/Rock_paper_scissors"> Repo</a> <br><br><img src="./rock.gif" > </li>
-  <li><a href="https://padmed.github.io/Etch-a-Sketch-/"> 8-bit drawing tool </a> | <a href="https://github.com/padmed/Etch-a-Sketch-"> Repo</a></li>
-  <li>Interactive <a href="https://padmed.github.io/Sign-up-Form/">Sign up</a> page design | <a href="https://github.com/padmed/Sign-up-Form"> Repo</a></li>
+  <li> My very first yet simple Javascript game <a href="https://padmed.github.io/Rock_paper_scissors/"> Rock Paper and Scissors </a> | <a href="https://github.com/padmed/Rock_paper_scissors"> Repo</a> <br><br><img src="./rock.gif" > <br><br></li>
+  <li><a href="https://padmed.github.io/Etch-a-Sketch-/"> 8-bit drawing tool </a> | <a href="https://github.com/padmed/Etch-a-Sketch-"> Repo</a>
+  <br><br><img src="./sketch.gif" ><br><br></li>
+  <li>Interactive <a href="https://padmed.github.io/Sign-up-Form/">Sign up</a> page design | <a href="https://github.com/padmed/Sign-up-Form"> Repo</a> <br><br><img src="./Signy.gif" ></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
