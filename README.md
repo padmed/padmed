@@ -13,7 +13,7 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li> My very first yet simple Javascript game <a href="https://padmed.github.io/Rock_paper_scissors/"> Rock Paper and Scissors </a> | <a href="https://github.com/padmed/Rock_paper_scissors"> Repo</a> ![](https://github.com/padmed/padmed/blob/main/Rock_paper_scissors.gif)</li>
+  <li> My very first yet simple Javascript game <a href="https://padmed.github.io/Rock_paper_scissors/"> Rock Paper and Scissors </a> | <a href="https://github.com/padmed/Rock_paper_scissors"> Repo</a> <![Rock_paper_scissors](https://user-images.githubusercontent.com/98668534/208754892-be1576bb-7698-42b6-86d7-5ac327fb4cdf.gif)</li>
   <li><a href="https://padmed.github.io/Etch-a-Sketch-/"> 8-bit drawing tool </a> | <a href="https://github.com/padmed/Etch-a-Sketch-"> Repo</a></li>
   <li>Interactive <a href="https://padmed.github.io/Sign-up-Form/">Sign up</a> page design | <a href="https://github.com/padmed/Sign-up-Form"> Repo</a></li>
 </ul>
