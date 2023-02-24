@@ -16,8 +16,8 @@
  
   <li><a href="https://padmed.github.io/Etch-a-Sketch-/"> 8-bit drawing tool </a> | <a href="https://github.com/padmed/Etch-a-Sketch-"> Repo</a>
   <br><br><img src="./sketch.gif" ><br><br></li>
-  <li><a href="https://padmed.github.io/Sign-up-Form/">Sign-Up</a> form UI | <a href="https://github.com/padmed/Sign-up-Form"> Repo</a> <br><br><img src="./Signy.gif"><br><br></li>
- <li><a href="https://padmed.github.io/BankyUI/">Bank home page </a> UI | <a href="https://github.com/padmed/BankyUI"> Repo</a><br><br><img src="./Banky.gif"></li>
+  <li><a href="https://padmed.github.io/Sign-up-Form/">Sign-Up form UI </a>| <a href="https://github.com/padmed/Sign-up-Form"> Repo</a> <br><br><img src="./Signy.gif"><br><br></li>
+ <li><a href="https://padmed.github.io/BankyUI/">Bank home page UI </a>| <a href="https://github.com/padmed/BankyUI"> Repo</a><br><br><img src="./Banky.gif"></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
